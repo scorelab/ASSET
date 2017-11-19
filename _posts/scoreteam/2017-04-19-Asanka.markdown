@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Asanka Sayakkara
+education_qualifications: BSc in Computer Science (UCSC)(Lecturer), Ph.D. Student (University College Dublin (UCD), Ireland)
+mail: asanka.sayakkara[at]ieee.org
+linkedin: https://www.linkedin.com/in/asanka-p-sayakkara-06300814/
+scholar: https://scholar.google.com/citations?user=n8BELL8AAAAJ&hl=en
+github: 
+blog: http://recolog.blogspot.com/
+web:
+---

@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: RA
+name: Chathura Suduwella
+education_qualifications: BSc Joint Major
+mail: cps[at]ucsc.cmb.ac.lk
+linkedin: https://www.linkedin.com/in/chathura-suduwella-b5a7ba22/
+scholar: https://scholar.google.com/citations?user=GPwsNZ0AAAAJ&hl=en
+github: https://github.com/cpsuduwella
+blog:
+web:
+---

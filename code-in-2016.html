@@ -1,0 +1,50 @@
+---
+layout: publications
+title: Google Code-in 2015
+shortTitle: code-in-2015
+permalink: /code-in-2015/
+mentors:
+  - Ruwan	Geeganage
+  - Kasun	Hewage
+  - Keshan	Sodimana
+  - Kasun	Balasooriya
+  - Malsha	Nadeeshanie
+  - Girisha	De Silva
+  - Kenneth	Thilakarathna
+  - Pubudu	Dharmarathne
+  - Manjusri	Wickramasinghe
+  - Nithila	Vithanage
+  - Dinith	Minura
+  - Nadeesh	Fernando
+  - Namal	Jayasuriya
+  - Raveen	Perera
+  - Chamath	Keppitiyagama
+  - Viraj Brian	Wijesuriya
+  - Prabod	Prasanga
+  - Dulini	Atapattu
+  - Chathura	Suduwella
+  - Charitha	Elvitigala
+  - Milindu Sanoj	Kumarage
+  - Dinith	Minura
+  - Dilushi	Piumwardane
+  - Tharindu	Ranathunga
+  - Tharidu	Fernando
+  - Yasanka Sameera	Horawalavithana
+  - Kasun	de Zoysa
+---
+
+<div class="container mtb">
+  <div class="row">
+    <h3><a href="{{project.website}}">Mentors</a></h3>
+    <div class="col-lg-4">
+      {% for member in page.mentors limit:include.limit %}
+        <p>{{member}}</p>
+      {% assign mod = forloop.index | modulo: 12 %}
+      {% if mod == 0 %}
+        </div>
+        <div class="col-lg-4">
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: head
+name: Dr. Chamath Keppitiyagama
+education_qualifications: BSc(Col), MSc(British Columbia), PhD (British Columbia)(Senior Lecturer Gr. I)
+mail: chamath[at]ucsc.cmb.ac.lk
+img: chamath.jpg
+linkedin: https://lk.linkedin.com/in/keppitiyagama
+scholar: https://scholar.google.com/citations?user=SFxdJK0AAAAJ&hl=en
+github:
+blog:
+web:
+---

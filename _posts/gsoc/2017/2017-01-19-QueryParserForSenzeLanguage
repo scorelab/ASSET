@@ -1,0 +1,10 @@
+---
+layout: gsoc
+categories: gsoc2017
+divid: senze-language
+title:  Query parser for Senze Language
+description: <p>In MySensors platform the application communicate each other using  Senzes language. At the moment there are no proper mechanism to generate and parse Senzes queries. From this project we will provide dynamic query generating and parsing library for Senzes language.</p>
+githuburl: https://github.com/senzprojects/
+requiredknowledge:  Python, Java, JavaScript
+possiblementors: TBD
+---

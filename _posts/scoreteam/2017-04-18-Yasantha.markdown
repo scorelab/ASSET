@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Yasantha Hettiarachchi
+education_qualifications: BSc in Computer Science (Senior Software Developer)
+mail: yasantha.hettiarachchi[at]gmail.com
+linkedin: 
+scholar: 
+github: 
+blog:
+web:
+---

@@ -1,0 +1,28 @@
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <img src="/assets/img/asset_logo.png" alt="SCoRe" style="width: 52px;"/>
+      <!--<a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}">{{ site.title }}</a>-->
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+        <ul class="nav navbar-nav">
+            <li {% if page.shortTitle == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">Home</a></li>
+            <li {% if page.shortTitle == "Projects" %}class="active"{% endif %}><a href="{{"/projects/" | prepend: site.baseurl }}">Projects</a>
+            </li>
+            <li {% if page.shortTitle == "Publications" %}class="active"{% endif %}><a href="{{"/publications/" | prepend: site.baseurl }}">Publications</a></li>
+            <li><a href="https://github.com/scorelab">Repositories</a></li>
+            <li {% if page.shortTitle == "Score-Team" %}class="active"{% endif %}><a href="{{"/score-team/" | prepend: site.baseurl }}">Team</a></li>
+            <li {% if page.shortTitle == "Blog and Gallery" %}class="active"{% endif %}><a href="{{"/blog/" | prepend: site.baseurl }}">Blog and Gallery</a></li>
+            <li {% if page.shortTitle == "Donations" %}class="active"{% endif %}><a href="{{"/donation/" | prepend: site.baseurl }}">Donations</a></li>
+            <li {% if page.shortTitle == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">Contact</a></li>
+        </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>

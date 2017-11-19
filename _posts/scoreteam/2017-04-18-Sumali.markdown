@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Sumali Jayasinghe
+education_qualifications: Bachelor of Computer Science (Senior Software Engineer)
+mail: sukijayasinghe[at]gmail.com
+linkedin: https://www.linkedin.com/in/sumali-jayasinghe-0248a167/
+scholar: 
+github: 
+blog:
+web:
+---

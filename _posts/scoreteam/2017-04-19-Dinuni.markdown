@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Dinuni Fernando
+education_qualifications: BSc in Computer Science (Graduate Research Assistant, PhD Student)
+mail: dinuni.fernando[at]gmail.com
+linkedin: https://www.linkedin.com/in/dinunifernando/
+scholar: https://scholar.google.com/citations?user=ViZRk00AAAAJ&hl=en
+github: https://github.com/dinuni
+blog:
+web:
+---

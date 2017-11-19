@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Kasun Perera
+education_qualifications: MSc in Computing and Information Science (Reseach Assistant at Singapore University of Technology and Design)
+mail: kasunsp11[at]gmail.com
+linkedin: https://www.linkedin.com/in/kasun-sanjeewa-perera-30963a53/
+scholar: https://scholar.google.com.sg/citations?user=hgkQYckAAAAJ&hl=en
+github: 
+blog:
+web:
+---

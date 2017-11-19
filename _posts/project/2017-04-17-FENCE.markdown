@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Fence"
+description: The human-elephant conflict is one of the most severe natural problems in Sri Lanka. There are rich farmlands near the elephant habitats and elephants raid these farms in search of food. This has been the main cause for nearly 70 human deaths and over 200 elephant deaths that have been recorded each year in the recent past. To manage the problem, the government has initiated projects that secure the national wildlife parks with electric fences. However, maintaining the electric fence is a challenge, because of its large perimeter and the lack of available manpower. A particular concern is that of locating faults in electric fences since these typically span a few hundred miles. Currently, park rangers are required to travel on foot to locate the faults, which could take days to complete. In this paper, we propose a novel system architecture that considerably shortens the maintenance time for electric fences, at minimal and hence affordable cost. Our architecture benefits the park rangers of the national wildlife sanctuaries to detect and repair the breakages.
+
+date:   2014-04-25 16:54:46
+author: Marcel Newman
+categories:
+- project
+img: portfolio_10.jpg
+thumb: asset-thumb.png
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://www.scorelab.org/gsoc-2017
+---
+####YOUR PROJECT NAME

@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: RA
+name: Dr. Manjusri Wickramasinghe
+education_qualifications: B.Sc (UCSC), Ph.D(Monash)(Lecturer)
+mail: mie[at]ucsc.cmb.ac.lk
+linkedin: 
+scholar: 
+github: 
+blog:
+web:
+---

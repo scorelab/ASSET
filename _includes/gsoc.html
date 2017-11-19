@@ -1,0 +1,100 @@
+<style media="screen">
+	.card-view>img{
+		border: 1px solid #e3e3e3;
+		padding: 10px;
+	}
+	.card-view{
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+</style>
+<div class="container mtb">
+	<div class="row">
+		{% for gsoc in site.categories['gsoc'] limit:include.limit %}
+
+		{% if gsoc.heading == "Google Summer of Code 2017" %}
+		<h2>{{gsoc.heading}}</h2>
+		<br/>
+		<section>
+			<section>
+				<p>
+					{{gsoc.introduction}}
+				</p>
+				<p>
+					<b>Mailing list: </b><a href="{{gsoc.mailinglisturl}}" target="_blank">{{gsoc.mailinglist}}</a>
+				</p>
+				<p>
+					<b>IRC Channel:</b> <a href="{{gsoc.ircchannel}}" target="_blank">{{gsoc.ircchannel}}</a>
+				</p>
+				<p>
+					<b><a href="{{gsoc.templateurl}}" target="_blank">{{gsoc.proposaltemplate}}</a></b>
+				</p>
+			</section>
+			<section>
+				<header>
+					<h2>{{gsoc.guidelinehead}}</h2>
+				</header>
+				<p>{{gsoc.guidelinediscription}}:</p>
+				<ul style="list-style:inherit">
+					<li>
+						{{gsoc.guideline1}}
+					</li>
+					<li>
+						{{gsoc.guideline2}}
+					</li>
+					<li>
+						{{gsoc.guideline3}}
+					</li>
+					<li>
+						{{gsoc.guideline4}}
+					</li>
+					<li>
+						{{gsoc.guideline5}}
+					</li>
+				</ul>
+			</section>
+			<section>
+				<header>
+					<h2>{{gsoc.projecthead}}</h2>
+				</header>
+			</section>
+			{% endif %}
+			{% endfor %}
+
+			{% for gsoc2017 in site.categories['gsoc2017'] limit:include.limit %}
+			<section>
+				<ul style="padding-left: 25px;" type="circle">
+					<li>
+						<a href="#{{gsoc2017.divid}}">
+							{{gsoc2017.title}}
+						</a>
+					</li>
+				</ul>
+			</section>
+
+			{% endfor %}
+
+			<br/>
+
+			{% for gsoc2017 in site.categories['gsoc2017'] limit:include.limit %}
+			<section>
+
+			<ul style="padding-left: 25px;" type="circle">
+				<li>
+				<div id="{{gsoc2017.divid}}">
+					<h2>{{gsoc2017.title}}</h2>
+					<p>{{gsoc2017.description}}</p>
+					<b>Required Knowledge: </b>{{gsoc2017.requiredknowledge}}
+                    <br/>
+                    <b>Github: </b><a href="{{gsoc2017.githuburl}}" target="_blank">{{gsoc2017.githuburl}}</a>
+					<br/>
+					<b>Possible Mentors: </b>{{gsoc2017.possiblementors}}
+				</div>
+				</li>
+			</ul>
+			</section>
+
+			{% endfor %}
+		</section>
+	</div>
+</div>

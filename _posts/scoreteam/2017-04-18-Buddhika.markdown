@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Buddhika Priyasad Sembukutti Liyanage
+education_qualifications: BSc in Mathematics, MS in Mathematics (PhD Student)
+mail: buddhikapriyasad[at]gmail.com
+linkedin: https://www.linkedin.com/in/buddhika-priyasad-36034819/
+scholar: 
+github: 
+blog:
+web:
+---

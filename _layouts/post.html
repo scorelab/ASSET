@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        <! -- SINGLE POST -->
+        <div class="col-lg-8" style="text-align:justify">
+            <! -- Blog Post  -->
+            <div class="row">
+                <img class="img-responsive col-lg-2" src="{{ '/assets/img/blog/' | prepend: site.baseurl }}{{ page.img }}">
+                <h3 class="col-lg-10">{{ page.title }}</h3>
+            </div>
+            <p>
+                <csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall>
+            </p>
+            {{ content }}
+            <div class="spacing"></div>
+        </div>
+        {% include sidebar.html %}
+    </div>
+</div>

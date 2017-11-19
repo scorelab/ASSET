@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Poshitha Dabare
+education_qualifications: BSc Computational Physics (Scientific Officer)
+mail: pdb[at]ucsc.cmb.ac.lk
+linkedin: https://www.linkedin.com/in/poshitha-dabare-764a547b/
+scholar: https://scholar.google.com/citations?user=0vy_M1IAAAAJ&hl=en
+github: https://github.com/mwaidyanatha
+blog:
+web:
+---

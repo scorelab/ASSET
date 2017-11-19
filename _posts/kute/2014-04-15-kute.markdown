@@ -1,0 +1,6 @@
+---
+layout: kute
+categories: kute
+heading: kute
+introduction: Kute is a commute app for Sri Lanka, currently implemented for trains. The user can update the current location of a train in Sri Lanka and also view the expected time a particular train arrives at the nearest station
+---

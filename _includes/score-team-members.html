@@ -1,0 +1,93 @@
+<!--Heads-->
+<div class="container">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <h2>Heads</h2>
+            </div>
+            <div class="col-lg-12">
+                <div id="publications">
+                    <ol>
+                        {% for team_member in site.categories['scoreteam'] limit:include.limit %}
+                        {% if team_member.post == "head" %}
+                        <section>
+                            <li>
+                                <h4>{{team_member.name}}</h4>
+                                <i>{{team_member.education_qualifications}}</i><br/>
+                                Contact Me: <span>{{team_member.mail}}</span><br/>
+                                <!--<a href="{{ team_member.linkedin }}">LinkedIn</a>-->
+                                <a href="{{ team_member.scholar }}">Google Scholar</a>
+                                <!--<a href="{{ team_member.github }}">GitHub</a>-->
+                                <!--<a href="{{ team_member.blog }}">Blog</a>-->
+                                <!--<a href="{{ team_member.web }}">Website</a>-->
+                            </li>                       
+                        </section>	
+                        {% endif %}
+                        {% endfor %}
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Researchers-->
+<div class="container">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <h2>Researchers</h2>
+            </div>
+            <div class="col-lg-12">
+                <div id="publications">
+                    <ol> 
+                        {% for team_member in site.categories['scoreteam'] limit:include.limit %}
+                        {% if team_member.post == "RA" %}
+                        <section>                        
+                            <li>
+                                <h4>{{team_member.name}}</h4>
+                                <i>{{team_member.education_qualifications}}</i><br/>
+                                Contact Me: <span>{{team_member.mail}}</span><br/>
+                                {% if team_member.scholar %}
+                                <a href="{{ team_member.scholar }}">Google Scholar</a>
+                                {% endif %}
+                            </li>                       
+                        </section>	
+                        {% endif %}
+                        {% endfor %}
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Alumni-->
+<div class="container">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <h2>Alumni</h2>
+            </div>
+            <div class="col-lg-12">
+                <div id="publications">
+                    <ol> 
+                        {% for team_member in site.categories['scoreteam'] limit:include.limit %}
+                        {% if team_member.post == "Alumni" %}
+                        <section>                        
+                            <li>
+                                <h4>{{team_member.name}}</h4>
+                                <i>{{team_member.education_qualifications}}</i><br/>
+                                {% if team_member.scholar %}
+                                <a href="{{ team_member.scholar }}">Google Scholar</a>
+                                {% endif %}         
+                            </li>                        
+                        </section>	
+                        {% endif %}
+                        {% endfor %}
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

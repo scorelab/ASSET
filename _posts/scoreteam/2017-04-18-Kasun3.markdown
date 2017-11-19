@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Kasun Hewage
+education_qualifications: B.Sc., Lic. (PhD student)
+mail: kasun.ch[at]gmail.com
+linkedin: https://www.linkedin.com/in/kasun-hewage-258a165/
+scholar: https://scholar.google.se/citations?hl=en&user=n-KJKCwAAAAJ
+github: 
+blog:
+web:
+---

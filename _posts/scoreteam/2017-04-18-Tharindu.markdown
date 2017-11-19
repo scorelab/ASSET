@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Tharindu Nanayakkara
+education_qualifications: B.Sc. (hons.) in CS (UCSC), B.Sc. (spec.) (hons.) in IT (SLIIT) (Consultant - Cloud Solutions)
+mail: tharindu.n[at]outlook.com
+linkedin: www.linkedin.com/in/tharindu31/
+scholar: 
+github:  
+blog:
+web:
+---

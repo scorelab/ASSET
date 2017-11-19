@@ -1,0 +1,62 @@
+<style media="screen">
+	.card-view>img{
+		border: 1px solid #e3e3e3;
+		padding: 10px;
+	}
+	.card-view{
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+</style>
+<div class="container mtb">
+	<div class="row">
+
+        <section>
+
+        <div class="col-lg-4">
+            <img class="img-responsive" src="{{ "/assets/img/project/kute.png" | prepend: site.baseurl }}" alt="">
+        </div>
+
+        <div class="col-lg-8">
+		{% for reading-group in site.categories['kute'] limit:include.limit %}
+
+		{% if reading-group.heading == "kute" %}
+
+        <p>
+					Kute is an open source commute app for Sri Lanka, which is currently implemented for trains.
+		</p>
+					<p>People travel to the same destination on a regular basis for various reasons. May it be to work every day or for business purposes every weekend. When in public transport, it is very convenient for the traveller to know the current location of a public transport vehicle to take decisions like time of arrival, time to reach the destination and to know any delays of transport.  In Kute, the users or travellers themselves are allowed to share their current location, so that the other travellers can see the current location of the vehicle. Kute is currently implemented for trains, and here a person who is travelling in the train can share his current location. A person outside can select the train and view current location of the train and the expected time for the train to arrive at the nearest station will be calculated and shown in the app.</p>
+
+					<p>When considering private vehicles, there are many vehicles in Sri Lanka that travel regularly by filling on a few seats or only the driver him/her self. The other space can be used by people travelling to same destination on same route.
+        </p>
+
+				<p><b>Source Code</b></p>
+
+				<p>Source code can be found at, <a>https://github.com/scorelab/kute.git</a></p>
+
+				<p><b>Installation</b></p>
+
+				<p>Go to your terminal and execute this command, git clone <a>https://github.com/scorelab/kute.git</a> or download the zip file.</p>
+
+
+		<ol style="padding-left: 25px;" type="circle">
+            <li>Launch android studio(version 1.4 above)</li>
+            <li>Click on File, then New and then Import Project Or from the welcome screen of android studio click on Import project. (If you wish to contribute, you can directly link to GitHub)</li>
+						<li>Browse to the directory where you cloned (extracte the zip)</li>
+						<li>Run and build the Gradle</li>
+						<li>If Gradle finishes to build without error run the project by clicking on the play button on the tool bar</li>
+						<li>Wait for a few seconds and the app should start on your device(android phone or emulator)</li>
+						<li>Make sure you are connected to internet</li>
+		</ol>
+
+        </div>
+
+
+
+        </section>
+
+        {% endif %}
+
+		{% endfor %}
+	</div>
+</div>

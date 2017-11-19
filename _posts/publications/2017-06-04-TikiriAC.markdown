@@ -1,0 +1,10 @@
+---
+layout: publications
+categories: publications 
+year: 2010
+link: http://telematika.kstu.kg/server/books/ger/wirelesssensornetwork/26.pdf
+title: "TikiriAC: Node-level equally distributed access control for shared sensor networks"
+authors: Nayanajith M Laxaman, MDJS Goonatillake, Kasun De Zoysa
+conference: Real-World Wireless Sensor Networks
+conferenceinfo: 
+---

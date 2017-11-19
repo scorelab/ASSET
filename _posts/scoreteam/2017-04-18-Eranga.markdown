@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Eranga Bandara
+education_qualifications: MSc in Computer Science (Lead Engineer - Pagero AB)
+mail: erangaeb[at]gmail.com
+linkedin: 
+scholar: 
+github: https://github.com/erangaeb 
+blog: https://medium.com/@itseranga
+web: https://about.me/eranga.herath
+---

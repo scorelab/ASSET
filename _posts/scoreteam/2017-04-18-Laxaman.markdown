@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Mahendra Laxaman
+education_qualifications: B.Sc (Hons) (Senior Technical Consultant - MillenniumIT Software Pvt. Ltd.)
+mail: nmlaxaman[at]gmail.com
+linkedin: 
+scholar: 
+github: 
+blog:
+web:
+---

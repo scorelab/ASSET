@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Manula Waidyanatha
+education_qualifications: BSc in Computer Science (Associate Lead Systems Engineer)
+mail: mail[at]manula.org
+linkedin: https://www.linkedin.com/in/mwaidyanatha/
+scholar: 
+github: https://github.com/mwaidyanatha
+blog:
+web:
+---

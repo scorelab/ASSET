@@ -1,0 +1,33 @@
+<style media="screen">
+  .card-view>img{
+    border: 1px solid #e3e3e3;
+    padding: 10px;
+  }
+  .card-view{
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+</style>
+<div class="container mtb">
+  <div class="row">
+    {% for project in site.categories['project'] limit:include.limit %}
+      <div class="col-md-12 col-sm-12 card-view">
+          <div class="col-md-2 col-sm-2">
+            <img src="{{ '/assets/img/project/' | prepend: site.baseurl }}{{project.thumb}}" alt="">
+          </div>
+          <div class="col-md-10 col-sm-10" style="text-align:justify">
+            <h3>{{project.title}}</h3>
+            <p>
+              {{project.description}}
+            </p>
+          </div>
+      </div>
+      {% assign mod = forloop.index | modulo: 2 %}
+      {% if mod == 0 %}
+        </div>
+        <div class="row">
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

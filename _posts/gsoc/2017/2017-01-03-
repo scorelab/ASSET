@@ -1,0 +1,10 @@
+---
+layout: gsoc
+categories: gsoc2017
+divid: drola-app
+title:  Drola - Drone with Lora
+description: <p>Drones use their radio link to communicate with their ground stations and controllers. Those radio links can communicate for a limited range. When a drone fly automatically through way points it may go away from radio link. Then ground station unable to monitor that drone any more. We want a system to monitor automatically flying drones using long range communication network “LORA” . Its mandatory to uniquely identifying each drone, for that we want to bind unique key to each drone. The final product should be a separate unit which can externally mound on any kind of drone.</p>
+githuburl: https://github.com/scorelab/drola
+requiredknowledge:  C++, 
+possiblementors: TBD
+---

@@ -1,0 +1,19 @@
+---
+layout: gsoc
+categories: gsoc
+heading: Google Summer of Code 2017
+introduction: Welcome to the SCoRe Lab Google Summer of Code (GSoC) 2017 project ideas page. We are a dynamic and enthusiastic nonprofit research group pioneering in Internet of Things (IoT), Embedded Systems, Computer Security and 'Wireless Adhoc and Sensor Networks' and is one of the best groups in South Asia. We are based in the University of Colombo School of Computing, Sri Lanka. This is the third time that we are participating in the GSoC, we will use this page to develop possible project ideas that have on the above mentioned areas. Please note that anyone who is interested can participate in this process. You do not have to be a GSoC student or mentor to suggest possible project ideas. You can also talk to us about possible project ideas and we are happy to improve or heip you with them. Please keep in mind that projects need to be realistically something that is able to be functionally completed by a student working full time for about eight weeks. Thanks!
+mailinglist: score-community@googlegroups.com
+mailinglisturl: http://groups.google.com/d/forum/score-community
+proposaltemplate: Suggested Proposal Template
+templateurl: https://goo.gl/KXcqAL
+ircchannel: https://gitter.im/scorelab/scorelab
+guidelinehead: Important Guidelines on Submitting Ideas
+guidelinediscription: There are some important guidelines to submit ideas, please read these carefully before adding your ideas;
+guideline1: There is a fixed time period for implementing and coding your ideas.
+guideline2: Come up with attainable goals and you will be able to complete what you set out to do. You can always contact our mentors and community and get an idea about the workload and whether you might be able to complete them.
+guideline3: You are free to come up with your own ideas. The ideas should be about Internet of Things (IOT), Embedded Systems, Computer Security and 'Wireless Adhoc and Sensor Networks’. Also if you love to work on any of these subjects but do not have an idea you can always contact us.
+guideline4:	Lets Talk! The best way to solve problems that you might have is to contact our mentors and also our community.  This will help you to not get bogged down in your ideas and to move on.
+guideline5:	We encourage you to do documentation so that we can keep track of your progress and also help you if things are not going according to plan. Although not compulsory we have a strong belief that this method can cut down your time to code and also the workload of the mentors drastically.
+projecthead: Project list for GSoC 2017
+---

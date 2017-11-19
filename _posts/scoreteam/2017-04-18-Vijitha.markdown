@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Vijitha Ekanayake
+education_qualifications: Bachelors (Senior Software Engineer)
+mail: ekvijitha[at]gmail.com
+linkedin: https://www.linkedin.com/in/vijitha-ekanayake-69059b27/
+scholar: 
+github: https://github.com/VijithaEkanayake
+blog:
+web:
+---

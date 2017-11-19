@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Girisha Durrel De Silva
+education_qualifications: BSc in Computer Science (PhD Student)
+mail: girisha[at]comp.nus.edu.sg
+linkedin: https://www.linkedin.com/in/girisha-de-silva-979141148/
+scholar: https://scholar.google.com.sg/citations?user=S4OvutwAAAAJ&hl=en
+github: https://github.com/girishadurrel
+blog:
+web:
+---

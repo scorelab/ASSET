@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Yasith Lokuge
+education_qualifications: Computer Science (UCSC) (Software Engineer)
+mail: yasith1[at]gmail.com
+linkedin: https://lk.linkedin.com/in/yasithlokuge
+scholar: 
+github: https://github.com/YasithLokuge
+blog: http://www.yasith.me/
+web: http://www.yasith.me/
+---

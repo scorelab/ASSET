@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Kenneth Thilakarathna
+education_qualifications: BIT(Col), MPhil (Col) (Technical Consultant - MillenniumIT Software Pvt. Ltd.)
+mail: kenneth.tux[at]gmail.com
+linkedin: 
+scholar: 
+github: 
+blog:
+web:
+---

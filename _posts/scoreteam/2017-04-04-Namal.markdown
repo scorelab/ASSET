@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: RA
+name: Namal Jayasuriya
+education_qualifications: BSc in Computer Science (UCSC)
+mail: nmj[at]ucsc.cmb.ac.lk
+linkedin: https://lk.linkedin.com/in/namaljayasuriya
+scholar: https://scholar.google.com/citations?user=WfUnhtYAAAAJ&hl=en&authuser=1
+github: https://github.com/NamalJayasuriya
+blog:
+web:
+---

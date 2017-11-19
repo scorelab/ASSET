@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: RA
+name: Charith Elvitigala
+education_qualifications: BSc in Computer Science (UCSC)
+mail: cme[at]ucsc.cmb.ac.lk
+linkedin: https://www.linkedin.com/in/charithelvitigala
+scholar: 
+github: 
+blog:
+web:
+---

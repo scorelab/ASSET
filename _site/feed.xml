@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASSET</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://www.scorelab.org/</link>
+    <atom:link href="http://www.scorelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 17 Nov 2017 11:48:40 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2017 11:48:40 +0530</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Blog: SCoRe won Best Paper Award at DCOSS 2017</title>
+        <description>&lt;p&gt;&lt;b&gt;SCoRe&lt;/b&gt; Group won the &lt;b&gt;Best Paper Award&lt;/b&gt; for &lt;b&gt;ASSEST&lt;/b&gt; project at DCOSS conference. The conference was held at Ottawa, Canada on June 5-7, 2017.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The Authors as follows;&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Asanka Sayakkara&lt;/li&gt;
+    &lt;li&gt;Namal Jayasuriya&lt;/li&gt;
+    &lt;li&gt;Tharindu Ranathunga&lt;/li&gt;
+    &lt;li&gt;Chathura Suduwella&lt;/li&gt;
+    &lt;li&gt;Nithila Withanage&lt;/li&gt;
+    &lt;li&gt;Dr. Chamath Keppetiyagama&lt;/li&gt;
+    &lt;li&gt;Dr. Kasun De Zoysa&lt;/li&gt;
+    &lt;li&gt;Kasun Hewage&lt;/li&gt;
+    &lt;li&gt;Prof. Thiemo Voigt&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 07 Oct 2017 22:24:46 +0530</pubDate>
+        <link>http://www.scorelab.org/blog/best-paper</link>
+        <guid isPermaLink="true">http://www.scorelab.org/blog/best-paper</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: SCoRe Group</title>
+        <description>&lt;p&gt;The &lt;b&gt;Sustainable Computing Research Group (SCoRe)&lt;/b&gt; at UCSC has conducted research covering various aspects of wireless sensor networks, embeded systems, digital forensic, information security, mobile applications and e-learning. The goal of our research is to generate computing solutions through identifying low cost methodologies and strategies that lead to sustainability. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;At present, the SCoRe group is at a stage of its evolution in which it has been able to secure high donor confidence as evidenced by no less than 5 simultaneous foreign funded projects underway since 2005.&lt;/p&gt;
+
+&lt;p&gt;SCoRe group has been a pioneer in cooperating with Internet Society (ISOC), Swedish Agency for International Development Cooperation (Sida)/The Department for Research Cooperation (SAREC), The Swedish Program for Information and Communication Technology in Developing Regions (Spider) and Information Society Innovation Fund (ISIF) in the area of computer science by establishing several interesting ICT research projects. These projects are considered to be the benchmarks of such projects in the World. Vehicular sensor networks which is called BusNet, Multiseat computer which is called PokuruPC and Forensic Investigation Toolkit were our big success which received wide international acceptance.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Oct 2017 22:24:46 +0530</pubDate>
+        <link>http://www.scorelab.org/blog/score-group</link>
+        <guid isPermaLink="true">http://www.scorelab.org/blog/score-group</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Identifying Mosquito Breeding Sites via Drone Images</title>
+        <description>
+</description>
+        <pubDate>Sat, 10 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/IdentifyingMosquitoBreedingSitesviaDroneImages</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/IdentifyingMosquitoBreedingSitesviaDroneImages</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Train traffic optimization to minimize stochastic delays</title>
+        <description>
+</description>
+        <pubDate>Fri, 09 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/TrainTrafficOptimizationToMinimizeStochasticDelays</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/TrainTrafficOptimizationToMinimizeStochasticDelays</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: The intelligent windshield wiper system</title>
+        <description>
+</description>
+        <pubDate>Fri, 09 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/TheIntelligentWindshieldWiperSystem</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/TheIntelligentWindshieldWiperSystem</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: A quality metric for object detection and focus for low-cost UAVs</title>
+        <description>
+</description>
+        <pubDate>Fri, 09 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/AQualityMetricForObjectDetectionAndFocusForLow-costUAVs</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/AQualityMetricForObjectDetectionAndFocusForLow-costUAVs</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Wireless Sensing: What Simplicity Has to Offer?</title>
+        <description>
+</description>
+        <pubDate>Thu, 08 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/WirelessSensing-WhatSimplicityHasToOffer</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/WirelessSensing-WhatSimplicityHasToOffer</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Towards a sensor system to tame the human elephant conflict</title>
+        <description>
+</description>
+        <pubDate>Thu, 08 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/TowardsASensorSystemToTameTheHumanElephantConflict</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/TowardsASensorSystemToTameTheHumanElephantConflict</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Sensor-based breakage detection for electric fences</title>
+        <description>
+</description>
+        <pubDate>Thu, 08 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/Sensor-basedBreakageDetectionForElectricFences2</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/Sensor-basedBreakageDetectionForElectricFences2</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Sensor-based Breakage Detection for Electric Fences</title>
+        <description>
+</description>
+        <pubDate>Thu, 08 Jun 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/publications/Sensor-basedBreakageDetectionForElectricFences</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/Sensor-basedBreakageDetectionForElectricFences</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+  </channel>
+</rss>

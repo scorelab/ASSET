@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: Alumni
+name: Chamika Hasanthi
+education_qualifications: Bachelor of Information and Communication Technology (Software Engineer)
+mail: chamikahasanthi90[at]gmail.com
+linkedin: https://www.linkedin.com/in/chamika-hasanthi-aa093049/
+scholar: 
+github: 
+blog:
+web:
+---

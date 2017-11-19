@@ -1,0 +1,13 @@
+---
+layout: scoreteam
+categories: scoreteam 
+post: RA
+name: Prabhash Kumarasinghe
+education_qualifications: B.Sc (UCSC), Ph.D(NTU)(Lecturer)
+mail: jpk[at]ucsc.cmb.ac.lk
+linkedin: 
+scholar: 
+github: 
+blog:
+web:
+---

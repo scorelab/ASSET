@@ -1,0 +1,18 @@
+<div id="footerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12" style="text-align:center">
+                <p>
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+                </p>
+            </div>
+        </div><!--/row -->
+        <div class="row">
+            <div class="col-lg-12" style="text-align:center; color:#fff">
+                © Copyright 2017 Sustainable Computing Research Group (SCoRe)
+            </div>
+        </div><!--/row -->
+    </div><!--/container -->
+</div><!--/footerwrap -->
