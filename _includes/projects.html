@@ -1,14 +1,308 @@
 <style media="screen">
-  .card-view>img{
-    border: 1px solid #e3e3e3;
-    padding: 10px;
-  }
-  .card-view{
-    padding-bottom: 10px;
-    padding-top: 10px;
-  }
+    .card-view>img{
+        border: 1px solid #e3e3e3;
+        padding: 10px;
+    }
+    
+    .card-view{
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    
+    /* Style the tab */
+    div.tab {
+        overflow: hidden;
+        border: 1px solid #ccc;
+        background-color: #f1f1f1;
+    }
+
+    /* Style the buttons inside the tab */
+    div.tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+    }
+
+    /* Change background color of buttons on hover */
+    div.tab button:hover {
+        background-color: #ddd;
+    }
+
+    /* Create an active/current tablink class */
+    div.tab button.active {
+        background-color: #ccc;
+    }
+
+    /* Style the tab content */
+    .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-top: none;
+    }
+    .active {
+        display: block;
+    }
+    
+    .slider {
+        width: 1024px;
+        margin: 2em auto;
+    }
+
+    .slider-wrapper {
+        width: 100%;
+        height: 400px;
+        position: relative;
+    }
+    
+    .slide {
+        float: left;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 3s linear;
+    }
+    
+    .slider-wrapper > .slide:first-child {
+        opacity: 1;
+    }
+    
+    #headerwrap {
+        text-align: -webkit-match-parent !important;
+    }
+    
+    .slider2 {
+        width: 1024px;
+        margin: 2em auto;
+    }
+
+    .slider-wrapper2 {
+        width: 100%;
+        height: 400px;
+        position: relative;
+    }
+    
+    .slide2 {
+        float: left;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 3s linear;
+    }
+    
+    .slider-wrapper2 > .slide2:first-child {
+        opacity: 1;
+    }
 </style>
+
+<script>
+    function openCity(evt, cityName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+    
+    (function() {
+
+        function Slideshow( element ) {
+            this.el = document.querySelector( element );
+            this.init();
+        }
+
+        Slideshow.prototype = {
+            init: function() {
+                this.wrapper = this.el.querySelector( ".slider-wrapper" );
+                this.slides = this.el.querySelectorAll( ".slide" );
+                this.previous = this.el.querySelector( ".slider-previous" );
+                this.next = this.el.querySelector( ".slider-next" );
+                this.index = 0;
+                this.total = this.slides.length;
+                this.timer = null;
+
+                this.action();
+                this.stopStart();	
+            },
+            _slideTo: function( slide ) {
+                var currentSlide = this.slides[slide];
+                currentSlide.style.opacity = 1;
+
+                for( var i = 0; i < this.slides.length; i++ ) {
+                    var slide = this.slides[i];
+                    if( slide !== currentSlide ) {
+                        slide.style.opacity = 0;
+                    }
+                }
+            },
+            action: function() {
+                var self = this;
+                self.timer = setInterval(function() {
+                    self.index++;
+                    if( self.index == self.slides.length ) {
+                        self.index = 0;
+                    }
+                    self._slideTo( self.index );
+
+                }, 3000);
+            },
+            stopStart: function() {
+                var self = this;
+                self.el.addEventListener( "mouseover", function() {
+                    clearInterval( self.timer );
+                    self.timer = null;
+
+                }, false);
+                self.el.addEventListener( "mouseout", function() {
+                    self.action();
+
+                }, false);
+            }
+
+
+        };
+
+        document.addEventListener( "DOMContentLoaded", function() {
+
+            var slider = new Slideshow( "#main-slider" );
+
+        });
+    
+    })();
+    
+    (function() {
+
+            function Slideshow2( element ) {
+                this.el = document.querySelector( element );
+                this.init();
+            }
+
+            Slideshow2.prototype = {
+                init: function() {
+                    this.wrapper = this.el.querySelector( ".slider-wrapper2" );
+                    this.slides = this.el.querySelectorAll( ".slide2" );
+                    this.previous = this.el.querySelector( ".slider-previous2" );
+                    this.next = this.el.querySelector( ".slider-next2" );
+                    this.index = 0;
+                    this.total = this.slides.length;
+                    this.timer = null;
+
+                    this.action();
+                    this.stopStart();	
+                },
+                _slideTo: function( slide ) {
+                    var currentSlide = this.slides[slide];
+                    currentSlide.style.opacity = 1;
+
+                    for( var i = 0; i < this.slides.length; i++ ) {
+                        var slide = this.slides[i];
+                        if( slide !== currentSlide ) {
+                            slide.style.opacity = 0;
+                        }
+                    }
+                },
+                action: function() {
+                    var self = this;
+                    self.timer = setInterval(function() {
+                        self.index++;
+                        if( self.index == self.slides.length ) {
+                            self.index = 0;
+                        }
+                        self._slideTo( self.index );
+
+                    }, 3000);
+                },
+                stopStart: function() {
+                    var self = this;
+                    self.el.addEventListener( "mouseover", function() {
+                        clearInterval( self.timer );
+                        self.timer = null;
+
+                    }, false);
+                    self.el.addEventListener( "mouseout", function() {
+                        self.action();
+
+                    }, false);
+                }
+
+
+            };
+
+            document.addEventListener( "DOMContentLoaded", function() {
+
+                var slider2 = new Slideshow2( "#main-slider2" );
+
+            });
+    })();
+</script>
+
 <div class="container mtb">
+    <div class="row">
+        <div class="tab">
+          <button class="tablinks active" onclick="openCity(event, 'InfrasonicMic')">Infrasonic Mic</button>
+          <button class="tablinks" onclick="openCity(event, 'Fence')">Fence</button>
+        </div>
+
+        <div id="InfrasonicMic" class="tabcontent" style="display: block;">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>The human elephant conflict in Sri Lanka has been a cause of major concern over the past decade. Frequent clashes between wild elephants and villagers have resulted in severe damage to property, as well as loss of lives for both humans and elephants. Competition for space is the primary reason for conflict between humans and elephants. Elephants that escape from the wildlife national parks venture into villages creating destruction in their wake. To prevent such mishaps, a proper system is required to contain and monitor elephants in national parks. In this project, we describe different approaches to detect elephants and possible ways of monitoring the national wildlife parks. We also elaborate on the advantages and limitations of each approach, and determine what sort of system is needed to tame the human elephant conflict.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="slider" id="main-slider"><!-- outermost container element -->
+                    <div class="slider-wrapper"><!-- innermost wrapper element -->
+                        <img src="/ASSET/assets/img/elephants_cover.jpg" alt="First" class="slide" /><!-- slides -->
+                        <img src="/ASSET/assets/img/elephants_cover4.png" alt="Second" class="slide" />
+                        <img src="/ASSET/assets/img/elephants_cover14.png" alt="Third" class="slide" />
+                        <img src="/ASSET/assets/img/elephants_cover5.png" alt="Four" class="slide" />
+                        <img src="/ASSET/assets/img/elephants_cover6.png" alt="Five" class="slide" />
+                    </div>
+                </div>	
+            </div>
+        </div>
+
+        <div id="Fence" class="tabcontent">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>The human-elephant conflict is one of the most severe natural problems in Sri Lanka. There are rich farmlands near the elephant habitats and elephants raid these farms in search of food. This has been the main cause for nearly 70 human deaths and over 200 elephant deaths that have been recorded each year in the recent past. To manage the problem, the government has initiated projects that secure the national wildlife parks with electric fences. However, maintaining the electric fence is a challenge, because of its large perimeter and the lack of available manpower. A particular concern is that of locating faults in electric fences since these typically span a few hundred miles. Currently, park rangers are required to travel on foot to locate the faults, which could take days to complete. In this project, we propose a novel system architecture that considerably shortens the maintenance time for electric fences, at minimal and hence affordable cost. Our architecture benefits the park rangers of the national wildlife sanctuaries to detect and repair the breakages.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="slider2" id="main-slider2"><!-- outermost container element -->
+                    <div class="slider-wrapper2"><!-- innermost wrapper element -->
+                        <img src="/ASSET/assets/img/elephants_cover1.png" alt="First1" class="slide2" /><!-- slides -->
+                        <img src="/ASSET/assets/img/elephants_cover11.png" alt="Second1" class="slide2" />
+                        <img src="/ASSET/assets/img/elephants_cover16.png" alt="Third1" class="slide2" />
+                        <img src="/ASSET/assets/img/elephants_cover8.png" alt="Four1" class="slide2" />
+                        <img src="/ASSET/assets/img/elephants_cover2.png" alt="Five1" class="slide2" />
+                    </div>
+                </div>	
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<div class="container mtb">
   <div class="row">
     {% for project in site.categories['project'] limit:include.limit %}
       <div class="col-md-12 col-sm-12 card-view">
@@ -29,5 +323,4 @@
       {% endif %}
     {% endfor %}
   </div>
-</div>
-
+</div>-->
