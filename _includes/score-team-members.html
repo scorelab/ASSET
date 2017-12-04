@@ -26,6 +26,24 @@
                         {% endfor %}
                     </ol>
                 </div>
+                <!--<div id="publications">
+                    <ol>
+                        {% for team_member in site.categories['scoreteam'] limit:include.limit %}
+                        {% if team_member.post == "head" %}
+                        <section class="row">
+                            <img class="col-lg-2" src="/ASSET/assets/img/members/{{team_member.img}}">
+                            <div class="col-lg-1"></div>
+                            <li class="col-lg-7">
+                                <h4>{{team_member.name}}</h4>
+                                <i>{{team_member.education_qualifications}}</i><br/>
+                                Contact Me: <span>{{team_member.mail}}</span><br/>
+                                <a href="{{ team_member.scholar }}">Google Scholar</a>
+                            </li>                       
+                        </section><br/>	
+                        {% endif %}
+                        {% endfor %}
+                    </ol>
+                </div>-->
             </div>
         </div>
     </div>
