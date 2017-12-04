@@ -3,7 +3,7 @@ layout: scoreteam
 categories: scoreteam 
 post: head
 name: Dr. Kasun de Zoysa
-education_qualifications: BSc(Col), PhLic(Stockholm), PhD(Stockholm)(Senior Lecturer Gr. II)
+education_qualifications: BSc(Col), PhLic(Stockholm), PhD(Stockholm)(Senior Lecturer Gr. I)
 mail: kasun[at]ucsc.cmb.ac.lk
 img: kasun.jpg
 linkedin: https://lk.linkedin.com/in/kasun-de-zoysa-374b22b2
