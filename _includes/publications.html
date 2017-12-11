@@ -83,6 +83,9 @@
                             {% for publications in site.categories['publications']%}
                             <section>
                                 <li>
+				    <!-- This line of code will create a URL link (also known as a hyper link) by using the <a></a>. 
+					The links URL is defined by {{publications.link}}. The link text will be {{publications.title}}.
+                                         The target attribute has been set to "_blank", which means the link will be opened in a new tab-->
                                     <h4><a href="{{publications.link}}" target="_blank">{{publications.title}}</a></h4>
                                     {{publications.authors}}<br/>
                                     <i>{{publications.conference}} - {{publications.year}}</i>
