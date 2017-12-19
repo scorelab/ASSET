@@ -27,9 +27,9 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/SCoRe.UCSC/
   - title: twitter
-    url:
+    url: https://twitter.com/scoreucsc
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
