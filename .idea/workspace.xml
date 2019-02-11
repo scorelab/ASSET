@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b5b556-edf4-4379-a55d-0fc0348aac33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/best-paper.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/best-paper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/score-group.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/score-group.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/code-in-2015/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/code-in-2015/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/donation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/donation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc/gsoc2016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc/gsoc2016.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/Advanced_phonographic_content_search_for_Androphsy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/Advanced_phonographic_content_search_for_Androphsy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/Android_app_for_tracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/Android_app_for_tracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/AutoInstallerforTracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/AutoInstallerforTracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/CompilingCeylontoNative.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/CompilingCeylontoNative.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/ConvertAndrophsytoaWebApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/ConvertAndrophsytoaWebApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/Data_acquisition_module_screen_lock_for_Androphsy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/Data_acquisition_module_screen_lock_for_Androphsy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/DevelopANewFrontEndBassa.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/DevelopANewFrontEndBassa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/ForensicsTimelineModuleForOpenDF.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/ForensicsTimelineModuleForOpenDF.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/Improve_root_exploit_support_for_Androphsy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/Improve_root_exploit_support_for_Androphsy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/MobileAppforOpenDF.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/MobileAppforOpenDF.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/OpenDF.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/OpenDF.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/OpenDebug.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/OpenDebug.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/RedesignTikiriDB.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/RedesignTikiriDB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/RewritingOpenDFfrontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/RewritingOpenDFfrontend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/Unknown_binary_analysis_for_Androphsy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/Unknown_binary_analysis_for_Androphsy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/UserInterfacesforTracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/UserInterfacesforTracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2016/UsingJVMlanguage_in_IoT_platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2016/UsingJVMlanguage_in_IoT_platforms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/BassaSetupAutomaticUpdatesAndDocker.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/BassaSetupAutomaticUpdatesAndDocker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/CeylonNativeCompiler.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/CeylonNativeCompiler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/ConvertAndrophsyToAWebApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/ConvertAndrophsyToAWebApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/DevelopingGoLibraryCompute.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/DevelopingGoLibraryCompute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/DevelopingNodeLibraryCompute.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/DevelopingNodeLibraryCompute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/DevelopingRustLibraryCompute.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/DevelopingRustLibraryCompute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/Drola-DroneWithLora.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/Drola-DroneWithLora.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/DroneSymPlatformToHandleAndTrackDroneFleetsInRealTime.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/DroneSymPlatformToHandleAndTrackDroneFleetsInRealTime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/FaceRecognitionAndProfilesModule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/FaceRecognitionAndProfilesModule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/ImageAnnotationAndDescribeModule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/ImageAnnotationAndDescribeModule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/KubernetizeOpenDF.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/KubernetizeOpenDF.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/KuteSocialNetwork.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/KuteSocialNetwork.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/OpenADSBellyGraphImplementAScalableDataStructureToModelEvolvingGraphs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/OpenADSBellyGraphImplementAScalableDataStructureToModelEvolvingGraphs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/OpenADSBellyGraphImplementDeepGraphKernelToSolveSubgraphIsomorphism.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/OpenADSBellyGraphImplementDeepGraphKernelToSolveSubgraphIsomorphism.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/OpenPub-PublicationManager.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/OpenPub-PublicationManager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/RewriteTheFrontendUsingReactOrPolymer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/RewriteTheFrontendUsingReactOrPolymer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/SCMaas-SmartContractMonitoringService.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/SCMaas-SmartContractMonitoringService.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gsoc2017/Stackle-WebCommunicationPortalForOpenSourceOrganizations.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gsoc2017/Stackle-WebCommunicationPortalForOpenSourceOrganizations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/kute/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/kute/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/kute/kute.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/kute/kute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/project/FENCE.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/project/FENCE.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/project/MIC.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/project/MIC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/ADeclarativeInterfaceForSmart-phoneBasedSensorNetworkSystems.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/ADeclarativeInterfaceForSmart-phoneBasedSensorNetworkSystems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/AFeatureSelectionMethodForTwitterNewsClassification.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/AFeatureSelectionMethodForTwitterNewsClassification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/APublicTransportSystemBasedSensorNetworkForRoadSurfaceCondition-monitoring.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/APublicTransportSystemBasedSensorNetworkForRoadSurfaceCondition-monitoring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/AQuadcopterControllerToMaintainRadioLinkQuality.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/AQuadcopterControllerToMaintainRadioLinkQuality.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/AQualityMetricForObjectDetectionAndFocusForLow-costUAVs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/AQualityMetricForObjectDetectionAndFocusForLow-costUAVs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/AReviewofDomainAdaptationforOpinionDetectionAndSentimentClassification.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/AReviewofDomainAdaptationforOpinionDetectionAndSentimentClassification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/AutomatedPotholeDetectionSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/AutomatedPotholeDetectionSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/BusnetaSensorNetworkBuiltOverAPublicTransportSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/BusnetaSensorNetworkBuiltOverAPublicTransportSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/Context-awareSentimentClassification.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/Context-awareSentimentClassification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/DeclarativeInterfaceForIn-networkActuationOnWirelessSensor-actuatorNetworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/DeclarativeInterfaceForIn-networkActuationOnWirelessSensor-actuatorNetworks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/DesignandEvaluationofanApplicationSoftwareforInformalPeerGroupLearning.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/DesignandEvaluationofanApplicationSoftwareforInformalPeerGroupLearning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/EnhancedBag-of-wordsModelForPhras-LevelSentimentAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/EnhancedBag-of-wordsModelForPhras-LevelSentimentAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/ExperiencesonMobileATMDeploymentinaDevelopingCountry.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/ExperiencesonMobileATMDeploymentinaDevelopingCountry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/INCORPORATING-DIGITAL-TOOLS-FOR-INFORMAL-PEER-GROUP-LEARNING.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/INCORPORATING-DIGITAL-TOOLS-FOR-INFORMAL-PEER-GROUP-LEARNING.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/IdentifyingMosquitoBreedingSitesviaDroneImages.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/IdentifyingMosquitoBreedingSitesviaDroneImages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/ListeningToTheGiants.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/ListeningToTheGiants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/MobileATMforDevelopingCountries.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/MobileATMforDevelopingCountries.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/MulticastingEnabledRoutingProtocolOptimizedForWirelessSensorNetworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/MulticastingEnabledRoutingProtocolOptimizedForWirelessSensorNetworks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/MySensors-ASystemForSecureSensorDataSharingOverInternet.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/MySensors-ASystemForSecureSensorDataSharingOverInternet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/RailwayTrainDynamicsAnalysisSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/RailwayTrainDynamicsAnalysisSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/SecureDynamicAccessControlMechanismForSharedWirelessSensorNetworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/SecureDynamicAccessControlMechanismForSharedWirelessSensorNetworks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/Sensor-basedBreakageDetectionForElectricFences.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/Sensor-basedBreakageDetectionForElectricFences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/Sensor-basedBreakageDetectionForElectricFences2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/Sensor-basedBreakageDetectionForElectricFences2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/SmartMobilePaymentSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/SmartMobilePaymentSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TheDeploymentofTikiridbForMonitoringPalmSapProduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TheDeploymentofTikiridbForMonitoringPalmSapProduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TheIntelligentWindshieldWiperSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TheIntelligentWindshieldWiperSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TikiriAC.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TikiriAC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TikiriPower-Using-TikiriDBabstractionOnSmartHomeSystems.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TikiriPower-Using-TikiriDBabstractionOnSmartHomeSystems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/Tikiridb-SharedWirelessSensorNetworkDatabaseForMulti-userDataAccess.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/Tikiridb-SharedWirelessSensorNetworkDatabaseForMulti-userDataAccess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TowardsASensorSystemToTameTheHumanElephantConflict.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TowardsASensorSystemToTameTheHumanElephantConflict.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TrainTrafficOptimizationToMinimizeStochasticDelays.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TrainTrafficOptimizationToMinimizeStochasticDelays.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TwitterNewsClassification.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TwitterNewsClassification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/TwitterNewsClassificationUsingSVM.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/TwitterNewsClassificationUsingSVM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/VideoSteganography.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/VideoSteganography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/WirelessSensing-WhatSimplicityHasToOffer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/WirelessSensing-WhatSimplicityHasToOffer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/v-LEARNING.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/v-LEARNING.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/v-LearningUsingVoiceforDistantLearninginEmergingRegions.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/v-LearningUsingVoiceforDistantLearninginEmergingRegions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/score-team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/score-team/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1870086762">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CNAME" value="1" />
+          <entry key="MD" value="1" />
+          <entry key="html" value="23" />
+          <entry key="markdown" value="2" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="23" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="111" selection-start-line="6" selection-start-column="111" selection-end-line="6" selection-end-column="111" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>social</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4" />
+    <option name="y" value="128" />
+    <option name="width" value="1880" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ASSET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASSET" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASSET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASSET" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASSET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASSET" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASSET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASSET" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="site&#9;FILE&#9;file:///home/sonod/Desktop/GSoC/SCoRe Website/ASSET/_site&#10;social&#9;FILE&#9;file:///home/sonod/Desktop/GSoC/SCoRe Website/ASSET/_posts/gsoc/2017/2017-01-08-KuteSocialNetwork.markdown" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b5b556-edf4-4379-a55d-0fc0348aac33" name="Default Changelist" comment="" />
+      <created>1549896755529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549896755529</updated>
+      <workItem from="1549896762400" duration="611000" />
+      <workItem from="1549897413399" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1590000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/publications/2017-06-01-APublicTransportSystemBasedSensorNetworkForRoadSurfaceCondition monitoring.markdown">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/gsoc/2017/2017-01-08-KuteSocialNetwork.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/reading-group/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/wrap.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/category/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2925" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/gsoc.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/kute/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/your-project-name.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="111" selection-start-line="6" selection-start-column="111" selection-end-line="6" selection-end-column="111" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
